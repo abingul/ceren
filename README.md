@@ -1,6 +1,6 @@
 # ceren
 
-Simulation of Generating Photons from Cherenkov Radiation
+Simulation of Photons Generated from Cherenkov Radiation
 
 This program simulates generation of Cherenkov photons when a particle
 is passing through an optical material (Radiator) having rectangular prism shape. 
