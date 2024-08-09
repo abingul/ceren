@@ -20,6 +20,7 @@
 %   All distance units are in mm
 %   All photon wavelength units are in um (micrometer)
 %   All particle units are in GeV
+%   Enegy lost and multiple scattering effects are ignored.
 %
 % Inputs:
 %   p        = momentum of the incident particle
