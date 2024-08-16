@@ -8,7 +8,7 @@ These photons are generated inside the radiator when particle's speed is greater
 that of speed of light in radiator. Hence, Cherenkov photons are created while the following 
 inequality is satisfied:
 
-     Beta*n > 1
+     \beta*n > 1
 
 where Beta = v_particle/c and n = c/v_light, and c = speed of light in vacuum.
 
