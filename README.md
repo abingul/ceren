@@ -12,7 +12,7 @@ inequality is satisfied:
 ```
 where $\beta = v_{particle}/c$ and $n = c/v_{light}$, and c = speed of light in vacuum.
 
-Production points of photons and their directions are written to a file called "cherenkov.dat" 
+Production points of photons and their directions are written to a file called <b>cherenkov.dat</b> 
 which can be used in NSC mode of Ansys Zemax OpticStudio.
 Note that in order to use these Cherenkov Photons, you need to fill 'Inside Of' column in 
 Zemax NSC Mode. Then, Zemax can do Ray Tracing and model absorption and reflection effects 
