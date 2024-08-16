@@ -14,9 +14,9 @@ where $\beta = v_{particle}/c$ and $n = c/v_{light}$, and c = speed of light in 
 
 Production points of photons and their directions are written to a file called <b>cherenkov.dat</b> 
 which can be used in NSC mode of Ansys Zemax OpticStudio.
-Note that in order to use these Cherenkov Photons, you need to fill 'Inside Of' column in 
-Zemax NSC Mode. Then, Zemax can do Ray Tracing and model absorption and reflection effects 
-(not scattering) for each photon.
+Note that in order to use these Cherenkov Photons, you need to fill <b>Inside Of</b> column in 
+Zemax NSC Mode. Then, Zemax can do Ray Tracing and model absorption, reflection and scattering effects 
+for each photon if you specify properties of optical material in Zemax.
 
 In the program, we assume that
   - all distance units are in mm
