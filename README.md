@@ -7,7 +7,7 @@ is passing through an optical material (Radiator) having rectangular prism shape
 These photons are generated inside the radiator when particle's speed is greater than 
 that of speed of light in radiator. Hence, Cherenkov photons are created while the following 
 inequality is satisfied:
-
+```math
      $$\beta n > 1$$
 
 where $\beta = v_particle/c$ and n = c/v_light, and c = speed of light in vacuum.
